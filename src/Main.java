@@ -13,7 +13,6 @@ public class Main {
         task9();
 
     }
-
     public static void task1() {
         int cash = 29000;
         int totalSum = 0;
